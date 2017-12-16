@@ -43,7 +43,7 @@ end
 
 --结束游戏场景
 local function EndGameScene( ... )
-    kunsan.getClientViewInstance():readClose()
+    kunsan.getClientViewInstance():readyClose()
     return true
 end
 
@@ -60,9 +60,9 @@ GameInfo.initfunc = InitGameScene
 GameInfo.endfunc = EndGameScene
 
 --游戏框架实例
-GameInfo.GameViewIns =hsz.getViewIns()
+-- GameInfo.GameViewIns =hsz.getViewIns()
 
 --游戏视图实例
-GameInfo.GameFrameIns =kunsan.getDlaInstance()
+GameInfo.GameFrameIns =kunsan.getDlgInstance()
 
 --endregion

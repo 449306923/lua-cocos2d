@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd"/>
+<plist version="1.0">
+    <dict>		
+	<key>chaircount</key>
+        <string>4</string>
+
+ 	<key>chairMode</key>
+        <string>0</string>
+
+        <key>chair0Position</key>
+        <string>33,140</string>
+        <key>chair1Position</key>
+        <string>128,230</string>
+        <key>chair2Position</key>
+	<string>227,140</string>
+        <key>chair3Position</key>
+        <string>128,48</string>
+        
+
+
+	<key>chair0Rot</key>
+        <string>90</string>
+	<key>chair1Rot</key>
+        <string>180</string>
+	<key>chair2Rot</key>
+        <string>-90</string>
+	<key>chair3Rot</key>
+        <string>0</string>	
+
+
+        <key>name0AnchorPoint</key>
+        <string>0,0.5</string>
+        <key>name1AnchorPoint</key>
+        <string>0,0.5</string>
+        <key>name2AnchorPoint</key>
+        <string>0,0.5</string>
+        <key>hand3Position</key>
+        <string>0,0</string>
+
+    
+
+	<key>hand0Position</key>
+        <string>0,0</string>
+        <key>hand1Position</key>
+        <string>0,0</string>
+        <key>hand2Position</key>
+        <string>0,0</string>
+        <key>hand3Position</key>
+        <string>0,0</string>
+
+        <key>showName</key>
+        <string>false</string>
+        <key>showDiinfo</key>
+        <string>false</string>
+
+	<key>tablesize</key>
+        <string>260,280</string>
+
+    </dict>
+</plist>
